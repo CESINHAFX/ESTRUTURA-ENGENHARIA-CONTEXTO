@@ -1,0 +1,24 @@
+/project-root
+   ├── index.md             # página inicial do site
+   ├── languages.md         # lista de linguagens/frameworks usados
+   ├── /docs                # PDFs oficiais (ex.: Microsoft)
+   │     ├── guia_api.pdf
+   │     ├── arquitetura.pdf
+   │     └── README.md      # links e explicações para os PDFs
+   ├── /videos              # transcrições de vídeos convertidos em texto
+   │     ├── transcript_video1.md
+   │     ├── transcript_video2.md
+   │     └── README.md      # índice dos vídeos
+   ├── /urls                # URLs convertidas em texto
+   │     ├── artigo_blog1.md
+   │     ├── tutorial_site.md
+   │     └── README.md      # índice dos artigos
+   ├── /code                # código-fonte com docstrings ricas
+   │     ├── main.py
+   │     ├── utils.py
+   │     └── README.md      # explicação da pasta de código
+   └── /guides              # arquivos .md explicativos por pasta
+         ├── backend.md
+         ├── data.md
+         ├── ml_pipeline.md
+         └── README.md      # índice dos guias
