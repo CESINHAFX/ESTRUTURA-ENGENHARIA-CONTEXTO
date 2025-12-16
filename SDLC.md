@@ -91,7 +91,7 @@ Estas atividades são contínuas e rodam em paralelo com as fases sequenciais, s
 ### 1. Clone o Repositório
 
 ```bash
-git clone https://github.com/CESINHAFX/ESTRUTURA-ENGENHARIA-CONTEXTO.git
+git clone <URL-DO-SEU-REPOSITORIO>
 cd ESTRUTURA-ENGENHARIA-CONTEXTO
 ```
 

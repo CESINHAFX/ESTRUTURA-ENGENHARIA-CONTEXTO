@@ -6,7 +6,6 @@ Guia interativo para conduzir usuários através do ciclo de vida de desenvolvim
 de software (SDLC) com questões sequenciais baseadas na estrutura do repositório.
 """
 
-import os
 import json
 import datetime
 from pathlib import Path

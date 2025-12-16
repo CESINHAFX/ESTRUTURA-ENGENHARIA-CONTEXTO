@@ -19,7 +19,7 @@ Este repositório fornece uma estrutura flexível e interativa para guiar desenv
 ### 1. Clone o Repositório
 
 ```bash
-git clone https://github.com/CESINHAFX/ESTRUTURA-ENGENHARIA-CONTEXTO.git
+git clone <URL-DO-SEU-REPOSITORIO>
 cd ESTRUTURA-ENGENHARIA-CONTEXTO
 ```
 
