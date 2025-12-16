@@ -95,7 +95,7 @@ TABELA RESUMO - INFLUENCIANDO PERFORMANCE DO COPILOT:
 | Fator            | Ação                                | Efeito                          |
 |------------------|-------------------------------------|---------------------------------|
 | Contexto         | Fornecer contexto rico do repo      | Aumenta relevância e qualidade  |
-| Especificidade   | Ser conciso e explícito             | Reduz ambiguidade, melhora      |
+| Especificidade   | Ser conciso e explícito             | Reduz ambiguidade, melhora precisão |
 | Exemplos         | Usar one-shot/few-shot samples      | Guia modelo para padrões        |
 | Seleção Tarefa   | Escolher tarefas bem delimitadas    | Aproveita pontos fortes         |
 | Revisão          | Usar PR comments e sugestões        | Permite refinamento iterativo   |
